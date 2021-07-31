@@ -51,8 +51,8 @@ function sdisp(){
 
 function sdisp1(){
     let n=parseInt(document.getElementsByName("rand")[0].value)
-    let loremSplit=lorem.split(" ")
-    document.getElementById("p4").innerHTML=loremSplit.slice(0,n).join(" ")
+    let loremSplit=lorem.split(".",n)
+    document.getElementById("p4").innerHTML=loremSplit.join(".")
 }
 
 function sdisp2(){

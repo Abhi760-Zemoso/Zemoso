@@ -1,0 +1,13 @@
+{
+    "baseUrl":"https://www.amazon.in",
+    "env":{
+        "USER_NAME":"chilukuriabishek@gmail.com",
+        "PASSWORD":"lovely760",
+        "Name":"name",
+        "Phone":"9999999999",
+        "Postal":"534268",
+        "Line":"2-80 main road",
+        "Token":"a200fa7d41acf8ae470ec62d8144e0e710542904"
+    },
+    "experimentalStudio": true
+}
